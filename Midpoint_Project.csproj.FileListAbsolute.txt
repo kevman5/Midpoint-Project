@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\bin\Debug\Midpoint_Project.exe.config
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\bin\Debug\Midpoint_Project.exe
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\bin\Debug\Midpoint_Project.pdb
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.Form1.resources
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.Properties.Resources.resources
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.exe
+C:\Users\kevmm\source\repos\Midpoint_Project\Midpoint_Project\obj\Debug\Midpoint_Project.pdb
